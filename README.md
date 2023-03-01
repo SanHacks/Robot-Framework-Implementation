@@ -8,17 +8,20 @@ This template robot:
 - Provides a simple template to start from (`task.py`).
 
 Acheives The Following:
+
   ✅Download Orders as Excel
   
   ✅Open Webpage
   
   ✅Order Robot based on Fields
   
-  Submit Each order at a time
+  ✅Submit Each order at a time
   
-  Save Ordered Bot Screenshot
+  ✅Save Ordered Bot Screenshot
   
-  Save Order summary infomation 
+  ✅Save Order summary infomation
+  
+  
 ## Learning materials
 
 - [Python basics](https://robocorp.com/docs/languages-and-frameworks/python)
